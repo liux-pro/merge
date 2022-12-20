@@ -1,0 +1,2 @@
+description: A component for esp-idf, which merge bootloader,partition table, app and so on to a single one bin file.
+url: https://github.com/liux-pro/merge
